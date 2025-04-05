@@ -429,7 +429,7 @@ export default function Home() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
             {[
-              { name: "Sarah Johnson", role: "Founder & CEO", image: "/images/team-members.jpeg" },
+              { name: "Fagha Debo", role: "Founder & CEO", image: "/images/team-members.jpeg" },
               { name: "Michael Chen", role: "Operations Director", image: "/images/classroom-presentation3.jpeg" },
               { name: "Amina Patel", role: "Program Manager", image: "/images/classroom-presentation.jpeg" },
               { name: "David Okafor", role: "Outreach Coordinator", image: "/images/student-interaction.jpeg" },
